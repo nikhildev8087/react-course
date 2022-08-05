@@ -1,0 +1,7 @@
+.new-expense{ padding: 10px 15px; margin: 30px; background-color: #002B5B; color: #8FE3CF; border-radius: 20px;}
+.new-expense__control{margin-top: 20px; }
+.new-expense__controls{padding: 20px;}
+.new-expense__control label{margin-right: 20px;}
+.new-expense__control input{padding: 10px 20px; border-radius: 10px;}
+.new-expense__action{padding: 15px;}
+.new-expense__action button{padding: 20px 25px; background-color: #256D85; color: #ffff; border-radius: 20px; border: none;}
